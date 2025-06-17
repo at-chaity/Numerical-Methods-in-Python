@@ -88,6 +88,9 @@ Numerical-Methods/
 This project was created to solidify core numerical algorithms and showcase the comparisons using Python. It aims to strike a balance between clarity, mathematical rigor, and readability — making it a valuable resource for academic use, self-learning, or teaching assistance.
 
 Crafted with a lot of care and curiosity.
-— Afifa Tabassum Chaity
+
+Afifa Tabassum Chaity
+
+Contact: chaityafifa6@gmail.com
 
 
