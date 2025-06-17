@@ -69,7 +69,7 @@ The codes were built following the algorithms of book **Numerical Analysis (9th 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/numerical-methods.git
+   git clone https://github.com/at-chaity/Numerical-Methods-in-Python.git
    cd numerical-methods
 2. Launch Jupyter Notebook.
 3. Navigate to the Notebooks/ folder to explore comparisons and visualizations.
